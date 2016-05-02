@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Elixir",
+    "year-of-appereance": "2012",
+    "stackoverflow-entries": 1768,
+    "hello-world-length": 21,
+    "active-github-repos": 5559,
+    "version-number": "1.2.4",
+    "created-at": "2016-05-02",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
