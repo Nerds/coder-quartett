@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Lisp",
+    "year-of-appereance": "1958",
+    "stackoverflow-entries": 4476,
+    "hello-world-length": 33,
+    "active-github-repos": 1130,
+    "version-number": "none",
+    "created-at": "2016-05-02",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
