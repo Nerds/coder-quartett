@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Scala",
+    "year-of-appereance": "2004",
+    "stackoverflow-entries": 50355,
+    "hello-world-length": 62,
+    "active-github-repos": 17861,
+    "version-number": "2.11.8",
+    "created-at": "2016-05-02",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
