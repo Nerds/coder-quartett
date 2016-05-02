@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Lolcode",
+    "year-of-appereance": "2007",
+    "stackoverflow-entries": 9,
+    "hello-world-length": 53,
+    "active-github-repos": 21,
+    "version-number": "v0.10.5",
+    "created-at": "2016-05-02",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
