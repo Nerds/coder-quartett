@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Clojure",
+    "year-of-appereance": "2007",
+    "stackoverflow-entries": 11471,
+    "hello-world-length": 20,
+    "active-github-repos": 6840,
+    "version-number": "1.8",
+    "created-at": "2016-05-02",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
