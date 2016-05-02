@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Brainfuck",
+    "year-of-appereance": "1993",
+    "stackoverflow-entries": 96,
+    "hello-world-length": 111,
+    "active-github-repos": 81,
+    "version-number": "none",
+    "created-at": "2016-05-02",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
