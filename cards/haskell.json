@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Haskell",
+    "year-of-appereance": "1990",
+    "stackoverflow-entries": 27584,
+    "hello-world-length": 22,
+    "active-github-repos": 8789,
+    "version-number": "Haskell 2010",
+    "created-at": "2016-04-22",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
