@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Python",
+    "year-of-appereance": "2015",
+    "stackoverflow-entries": 90938,
+    "hello-world-length": 21,
+    "active-github-repos": 11138,
+    "version-number": "2.2",
+    "created-at": "2016-05-02",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
