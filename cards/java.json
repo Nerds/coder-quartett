@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Java",
+    "year-of-appereance": "1995",
+    "stackoverflow-entries": 1063529,
+    "hello-world-length": 155,
+    "active-github-repos": 222852,
+    "version-number": "Java 8 Update 92",
+    "created-at": "2016-05-02",
+    "creator": "Railslove",
+    "creator-twitter": "railslove",
+    "creator-github": "railslove"
+  }
+}
